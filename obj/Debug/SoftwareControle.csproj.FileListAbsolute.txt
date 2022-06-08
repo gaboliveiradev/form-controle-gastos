@@ -1,0 +1,11 @@
+D:\Gabriel\Desen. Sistema\SoftwareControle\bin\Debug\SoftwareControle.exe.config
+D:\Gabriel\Desen. Sistema\SoftwareControle\bin\Debug\SoftwareControle.exe
+D:\Gabriel\Desen. Sistema\SoftwareControle\bin\Debug\SoftwareControle.pdb
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.csproj.AssemblyReference.cache
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.csproj.SuggestedBindingRedirects.cache
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.Form1.resources
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.Properties.Resources.resources
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.csproj.GenerateResource.cache
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.csproj.CoreCompileInputs.cache
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.exe
+D:\Gabriel\Desen. Sistema\SoftwareControle\obj\Debug\SoftwareControle.pdb
